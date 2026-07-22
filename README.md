@@ -1,28 +1,18 @@
-
-
----
-Team Name:- Red Devils 
-Team Number:- 298
-Members:-
-Siddarth Gottumukkula
-M P Samartha
-Shlok Sand
-Vedant Pahariya
-Shreyas Kasture
----
-
-
-
 # 🛡️ AI-Powered Churn Retention Intelligence Platform
 
-> Enterprise-grade customer retention system combining Machine Learning, Explainable AI, Counterfactual Analysis, and Behavioral Economics for the auto insurance industry.
+## 🏆 1st Place Winner at Megathon 2025 (40+ Teams) 
+
+### Team Red Devils 
+- M P Samartha
+- Shlok Sand
+- Shreyas Kasture
+- Siddarth Gottumukkula
+- Vedant Pahariya
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![XGBoost](https://img.shields.io/badge/ML-XGBoost-orange.svg)](https://xgboost.readthedocs.io/)
 [![SHAP](https://img.shields.io/badge/XAI-SHAP-green.svg)](https://shap.readthedocs.io/)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-red.svg)](https://streamlit.io/)
-
-Built for **Megathon'25** Innovation Challenge
 
 ---
 
